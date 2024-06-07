@@ -1,10 +1,6 @@
 ## 🚀 Repo for CapRover One-Click Apps
-
-![Banner](https://github.com/caproverhub/caprover-one-click-apps/assets/73314940/f24092a5-9239-475d-9337-3b3222a3686e)
-
 <p align="center">
-  <img src="https://github.com/caproverhub/caprover-one-click-apps/actions/workflows/validate_apps.yml/badge.svg?event=push" alt="Validate One Click Apps"></img>
-  <img src="https://github.com/caproverhub/caprover-one-click-apps/actions/workflows/deploy.yml/badge.svg?event=push" alt="Publish One Click Apps"></img>
+  # ARM64 Appls
 </p>
 
 ## How to add this repo
@@ -31,3 +27,7 @@
 For a complete list of available one-click apps, please visit the [CaproverHub](https://caproverhub.github.io/caprover-one-click-apps/) repository homepage.
 
 Feel free to explore, contribute, and enhance your CapRover experience with these one-click apps! 🚢✨
+
+# Notice
+
+Many image used here are not official one because the devs do not have one. I will try to compile myself some images to update the apps if I have some free time. So these apps may lack updates.
